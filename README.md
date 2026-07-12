@@ -476,5 +476,3 @@ We sincerely thank **Mr. Saurabh Rawat** for his continuous guidance and mentors
 **Amishi Mathur**
 
 **Lakshveer Singh**
-
-TechBlazers 2.0
