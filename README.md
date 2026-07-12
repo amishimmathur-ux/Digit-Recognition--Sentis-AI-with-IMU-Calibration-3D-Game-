@@ -9,8 +9,8 @@
 **Mentor:** Mr. Saurabh Rawat
 
 **Developed by**
-- Amishi Mathur
-- Lakshveer Singh
+ Amishi Mathur
+ Lakshveer Singh
 
 </div>
 
