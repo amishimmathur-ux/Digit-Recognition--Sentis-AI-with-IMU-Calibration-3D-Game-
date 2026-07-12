@@ -8,8 +8,8 @@
 
 **Mentor:** Mr. Saurabh Rawat
 
-**Developed by**
- Amishi Mathur
+**Developed by:**
+ Amishi Mathur,
  Lakshveer Singh
 
 </div>
